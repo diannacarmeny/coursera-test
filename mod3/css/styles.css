@@ -1,0 +1,92 @@
+
+.navbar {
+	background-color: #D8BFD8;
+}
+
+.container-fuild{
+	margin:10px;
+	padding:10px;
+}
+
+.navbar-brand{
+	color:#FAEBD7;
+	font-size:30px;
+	padding-left:20px;
+}
+
+.navbar-brand:hover{
+	color:#8B4513;
+}
+
+.navbar-toggle{
+	border: 2.5px solid white;
+	margin-right:20px;
+}
+
+.icon-bar{
+	background-color: #FAEBD7;
+}
+
+.main-title{
+	font-size:30px;
+	color:#663399;
+	text-align: center;
+}
+
+.text-center{
+	color:#A0522D;
+	font-weight:bold;
+}
+
+.item-name{
+	color:#A0522D;
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
+}
+
+.content-box{
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#FAEBD7;
+	height:300px;
+	width:auto;
+	overflow:scroll;
+	color:#A0522D;
+}
+
+.menu-item{
+	padding:0;
+	margin:0;
+	width:100%;
+	background-color:#FAEBD7;
+	border-bottom:1px solid white;
+	border-top:2px solid white;
+	color:#A0522D;
+	display:block;
+}
+
+.row{
+	margin:20px;
+	background-color:#BC8F8F;
+}
+
+li {
+	color:black;
+	text-align: center
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	background-color:#BC8F8F;
+	font-family:URW Chancery L, cursive;
+}
