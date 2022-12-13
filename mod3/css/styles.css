@@ -1,6 +1,6 @@
 
 .navbar {
-	background-color: #D8BFD8;
+	background-color: #9A8B4F;
 }
 
 .container-fuild{
@@ -9,9 +9,11 @@
 }
 
 .navbar-brand{
-	color:#FAEBD7;
+	/*color:#FAEBD7;*/
+	/*color:#D8BFD8;*/
 	font-size:30px;
 	padding-left:20px;
+	color:#EADEDB;
 }
 
 .navbar-brand:hover{
@@ -34,15 +36,18 @@
 }
 
 .text-center{
-	color:#A0522D;
+	/*color:#A0522D;*/
 	font-weight:bold;
+	color:#4b5335;
 }
 
 .item-name{
-	color:#A0522D;
+	/*color:#A0522D;*/
 	font-size:20px;
 	text-align:center;
 	font-weight:bold;
+	color:#9A8B4F;
+	/*color:##8B4513;*/
 }
 
 .content-box{
@@ -54,11 +59,13 @@
 	padding-right:10px;
 	padding-top:10px;
 	padding-bottom:10px;
-	background-color:#FAEBD7;
+	/*background-color:#FAEBD7;*/
 	height:300px;
 	width:auto;
 	overflow:scroll;
-	color:#A0522D;
+	/*color:#A0522D;*/
+	color:#4B5335;
+	background-color:#EADEDB;
 }
 
 .menu-item{
@@ -68,8 +75,9 @@
 	background-color:#FAEBD7;
 	border-bottom:1px solid white;
 	border-top:2px solid white;
-	color:#A0522D;
+	/*color:#A0522D;*/
 	display:block;
+	color:#4B5335;
 }
 
 .row{
